@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sara, a fourth year Computer Science (Software Engineering) student at the University of Technology, Malaysia
-- 👀 I’m interested in Web Development (Front-End) and Software Testing
+- 👀 I’m interested in Web Development and Software Testing
 - 🌱 I’m currently learning ReactJS, MongoDB and GraphQL
 - 📫 How to reach me: elsayed.sara@graduate.utm.my, linkedin @saratarekabbas
