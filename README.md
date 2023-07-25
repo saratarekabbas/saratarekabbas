@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sara, a fourth year Computer Science (Software Engineering) student at the University of Technology, Malaysia
+- 👋 Hello there! I’m Sara, MSE (Hons)
 - 👀 I’m interested in Web Development and Software Testing
-- 🌱 I’m currently learning ReactJS, MongoDB and GraphQL
+- 🌱 Technolgies: Laravel, Vue.js, Tailwind.css, Bootstrap, MySQL, PHP, JSON, HTML, CSS, JavaScript, jQuery, Java, C++,...
+- :computer: Skills: Web Development, Manual & Automated Software Testing, Defect/Bug Tracking, Test Plans, Test Strategies/Coverages, Software Requirements,...
 - 📫 How to reach me: abbassaratarek@gmail.com, linkedin @saratarekabbas
